@@ -20,6 +20,7 @@
 
 <br/>  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Min-Ho-Lim)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
